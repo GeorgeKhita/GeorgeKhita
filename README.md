@@ -3,7 +3,7 @@
 Développeur Full-Stack basé à Toulouse, France.
 Passionné par le backend et la construction de systèmes robustes.
 
-En recherche d'une alternance en développement à partir d'octobre 2026 dans le cadre de mon Mastère Expert en Systèmes d'Information.
+En recherche d'une alternance en développement dans le cadre de mon Mastère Expert en Systèmes d'Information.
 
 ---
 
