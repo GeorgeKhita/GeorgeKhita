@@ -19,4 +19,4 @@ Bachelor Systèmes d'Information — Institut Limayrac, Toulouse
 
 **Me contacter**
 
-[LinkedIn](https://linkedin.com/in/george-k-9726b7295) · [Email](mailto:george.khitaridze@limayrac.fr) · Portfolio (bientôt en ligne)
+[LinkedIn](https://linkedin.com/in/george-k-9726b7295) · [Email](mailto:george.khitaridze@limayrac.fr) · [Portfolio](https://george-khitaridze.vercel.app)
