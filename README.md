@@ -21,7 +21,7 @@
 
   <h3>🚀 Actuellement :</h3>
   <p>
-    Bachelor Systèmes d'Information — Institut Limayrac, Toulouse
+    Bachelor Systèmes d'Information - Institut Limayrac, Toulouse
   </p>
 
   <h2>📫 Me contacter :</h2>
