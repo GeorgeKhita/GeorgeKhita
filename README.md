@@ -32,14 +32,12 @@
         alt="LinkedIn" 
       />
     </a>
-
     <a href="https://george-khitaridze.vercel.app/" target="_blank">
       <img 
         src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
         alt="Portfolio" 
       />
     </a>
-
     <a href="mailto:george.khitaridze@limayrac.fr" target="_blank">
       <img 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
